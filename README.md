@@ -44,9 +44,15 @@ Follow these steps to run the application:
    cd PatikaVariablesApp
    dotnet run
    ```
-
+   
 ---
 
+## Usage
+When the application is run, the console will display the following flow:
+
+![PatikaVariablesApp](https://github.com/user-attachments/assets/054a3fef-9446-4e57-b421-1ad30b0388a6)
+
+---
 ## Code Explanations
 - **Variables**: User input is stored as strings since no arithmetic operations are performed on them.
 - **TryParse Usage**: Product prices are taken as strings and converted to integers using the `int.TryParse` method.
