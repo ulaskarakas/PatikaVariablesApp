@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PatikaVariablesApp/1.0.0": {
+        "runtime": {
+          "PatikaVariablesApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaVariablesApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
